@@ -1,7 +1,7 @@
 ![vecteezy_vector-background-with-mountains-eps10-file-illustration_8277957-1](https://github.com/yeetbruises/yeetbruises/assets/61666396/05f81670-7f06-48a1-a0b6-18319bb5296e)
 
-<h1 align="center">Heyyy 👋, I'm Vineet Saraf</h1>
-<h3 align="center">A South Carolina based software and web developer</h3>
+<h1 align="center">Hey 👋, I'm Vineet Saraf</h1>
+<h3 align="center">A South Carolina based software and web developer. Senior Computer Science Undergraduate at Clemson University, and Software Engineer CO-OP Intern at JR Automation. </h3>
 
 
 <!--Source #1 ( https://gprm.itsvg.in ) -->
