@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeetbruises&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<img align="right" style="margin-right: auto; display: block;" src="https://visit-counter.vercel.app/counter.png?page=&s=20&c=00ff00&bg=00000000&no=2&ff=alien&tb=Visits%3A+&ta=" alt="visits"> 
+<!-- <img align="right" style="margin-right: auto; display: block;" src="https://visit-counter.vercel.app/counter.png?page=&s=20&c=00ff00&bg=00000000&no=2&ff=alien&tb=Visits%3A+&ta=" alt="visits"> -->
 
 ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/3792f2d6-d813-498e-af81-96b8ccc214de)
 
